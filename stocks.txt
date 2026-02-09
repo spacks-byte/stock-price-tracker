@@ -1,0 +1,13 @@
+# Hong Kong Stock Codes
+# Format: HK.XXXXX (one per line)
+# Lines starting with # are comments and will be ignored
+
+HK.00005
+HK.00013
+HK.00020
+HK.00022
+HK.00036
+HK.00037
+HK.00080
+
+# Add more stock codes below:
