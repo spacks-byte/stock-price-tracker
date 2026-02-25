@@ -26,6 +26,10 @@ wheels/
 # Environment variables
 .env
 
+# Configuration files with sensitive data
+projectfiles/config.py
+*.json
+
 # CSV output files
 *.csv
 
@@ -46,3 +50,6 @@ Thumbs.db
 # stock info
 allstockstocopy.txt
 SETUP_GUIDE.md
+
+fullstocks.txt
+*.json
